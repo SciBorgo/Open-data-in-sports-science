@@ -1,1 +1,1 @@
-# Open-data-in-sport-and-exercise-science
+# Open-data-in-sports-science
